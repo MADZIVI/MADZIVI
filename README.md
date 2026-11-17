@@ -2,7 +2,7 @@
 
 # Hi, I'm MADZIVI HLULANI 👋
 
-### Information Technology Student | Software Development | Web Development| Cybersecurity | Data & Systems Analysis
+### Information Technology Student | Software Development | Cybersecurity | Data & Systems
 
 Building practical software solutions to real-world problems.
 
@@ -22,17 +22,7 @@ Motivated and detail-oriented **Third-Year Information Technology student** at *
 
 Proven leadership skills as **Treasurer of the Applied & Computer Sciences Faculty Council 2026/2027** and **Departmental Chairperson for Information & Communications Technology (VUT Student Representative Council)**.
 
-Proficient in full-stack web development (**HTML, CSS, JavaScript, PHP**), advanced database management (**MySQL, PL/SQL, Oracle**), and programming logic (**VB.NET,Python , Java**). Seeking to leverage expertise in systems architecture, business process modeling, and data-driven solutions in a challenging IT role.
-
-I enjoy exploring new technologies, developing applications, and turning ideas into working software.
-
-- <img src="https://img.shields.io/badge/-Cybersecurity-222222?style=flat-square&logo=kalilinux&logoColor=white" height="18" alt="Cybersecurity"/> Interested in network security, cyber threats, and protecting digital systems.
-- <img src="https://img.shields.io/badge/-Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white" height="18" alt="Networking"/> Exploring computer networks, network infrastructure, and connectivity.
-- <img src="https://img.shields.io/badge/-AI%20%26%20ML-7B42BC?style=flat-square" height="18" alt="AI and Machine Learning"/> Exploring Artificial Intelligence and Machine Learning.
-- <img src="https://img.shields.io/badge/-Full--Stack%20Development-E34F26?style=flat-square" height="18" alt="Full-Stack Development"/> Building full-stack web applications and software solutions.
-- <img src="https://img.shields.io/badge/-Data%20%26%20Analytics-150458?style=flat-square" height="18" alt="Data and Analytics"/> Working with databases, data warehouses, and analytics.
-- <img src="https://img.shields.io/badge/-Innovation-0A66C2?style=flat-square" height="18" alt="Innovation"/> Interested in technology that creates practical community impact.
-- <img src="https://img.shields.io/badge/-Continuous%20Learning-2E8B57?style=flat-square" height="18" alt="Continuous Learning"/> Continuously learning, experimenting, and improving my skills.
+Proficient in full-stack web development (**HTML, CSS, JavaScript, PHP**), advanced database management (**MySQL, PL/SQL, Oracle**), and programming logic (**VB.NET, Java**). Seeking to leverage expertise in systems architecture, business process modeling, and data-driven solutions in a challenging IT role.
 
 ---
 
@@ -61,6 +51,14 @@ I enjoy exploring new technologies, developing applications, and turning ideas i
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+</p>
+
+### Data Analytics & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
 ### Data & Machine Learning
