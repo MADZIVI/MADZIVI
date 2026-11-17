@@ -18,7 +18,11 @@ Building practical software solutions to real-world problems.
 
 ## <img src="https://img.shields.io/badge/ABOUT%20ME-0A66C2?style=flat-square&logo=readme&logoColor=white" alt="About Me"/>
 
-I'm an Information Technology student at the Vaal University of Technology (VUT), passionate about software development, cybersecurity, and using technology to solve meaningful problems.
+Motivated and detail-oriented **Third-Year Information Technology student** at **Vaal University of Technology**, with a strong foundation in **Systems Analysis, System Design, and Database Technologies**.
+
+Proven leadership skills as **Treasurer of the Applied & Computer Sciences Faculty Council 2026/2027** and **Departmental Chairperson for Information & Communications Technology (VUT Student Representative Council)**.
+
+Proficient in full-stack web development (**HTML, CSS, JavaScript, PHP**), advanced database management (**MySQL, PL/SQL, Oracle**), and programming logic (**VB.NET,Python , Java**). Seeking to leverage expertise in systems architecture, business process modeling, and data-driven solutions in a challenging IT role.
 
 I enjoy exploring new technologies, developing applications, and turning ideas into working software.
 
