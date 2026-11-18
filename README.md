@@ -2,7 +2,7 @@
 
 # Hi, I'm MADZIVI HLULANI 👋
 
-### Information Technology Student | Software Development | Cybersecurity | Data & Systems
+### Information Technology Student | Software Development | Web Development | Cybersecurity | Data & Systems
 
 Building practical software solutions to real-world problems.
 
