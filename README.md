@@ -135,19 +135,7 @@ Portfolio repository showcasing my projects in Systems Design, Database Manageme
 
 [Explore Repository →](https://github.com/MADZIVI/My-Portfolio)
 
----
 
-## <img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-0A66C2?style=flat-square&logo=github&logoColor=white" alt="GitHub Activity"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MADZIVI&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADZIVI&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
-
-</div>
-
----
 
 ## <img src="https://img.shields.io/badge/CURRENT%20FOCUS-0A66C2?style=flat-square&logo=target&logoColor=white" alt="Current Focus"/>
 
